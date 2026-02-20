@@ -12,4 +12,4 @@ Continuo a criar cenas em GIT
 alguma! nao muita, mas para la caminho! 
 dcsdcjs
 
-
+adicionar conteudo remotamente
